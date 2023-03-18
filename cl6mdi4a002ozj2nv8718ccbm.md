@@ -1,4 +1,12 @@
-# A Quick Cheat sheet on CSS Flexbox
+---
+title: "A Quick Cheat sheet on CSS Flexbox"
+datePublished: Tue Aug 09 2022 16:04:36 GMT+0000 (Coordinated Universal Time)
+cuid: cl6mdi4a002ozj2nv8718ccbm
+slug: a-quick-cheat-sheet-on-css-flexbox
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1660060955092/vDny01qUj.jpg
+tags: flexbox, css3, css, learncodeonline, iwritecode
+
+---
 
 ## Basics
 
