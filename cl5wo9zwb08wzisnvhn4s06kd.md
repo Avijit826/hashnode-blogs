@@ -1,4 +1,13 @@
-# A Quick Note Of CSS Selector
+---
+title: "A Quick Note Of CSS Selector"
+datePublished: Fri Jul 22 2022 16:24:11 GMT+0000 (Coordinated Universal Time)
+cuid: cl5wo9zwb08wzisnvhn4s06kd
+slug: a-quick-note-of-css-selector-with-simple-examples
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1658517592697/P0VQs6hZA.jpg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1658507010856/wu0F0foaL.png
+tags: css-selectors, css, html, html5, iwritecode
+
+---
 
 # CSS selectors
 
