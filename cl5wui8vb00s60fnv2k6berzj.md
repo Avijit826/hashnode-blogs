@@ -1,4 +1,12 @@
-# A Quick Note Of CSS Position
+---
+title: "A Quick Note Of CSS Position"
+datePublished: Fri Jul 22 2022 19:18:35 GMT+0000 (Coordinated Universal Time)
+cuid: cl5wui8vb00s60fnv2k6berzj
+slug: a-quick-note-of-css-position
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1658517408844/7kzhzCTUt.jpg
+tags: css, html, css-position, iwritecode
+
+---
 
 # CSS Position
 
